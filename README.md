@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @andredias-provi
+- 👋 André Dias A.K.A. Deco
+- 💻 FullStack developer @ Provi
 - 👀 I’m interested in:
   - BackEnd
   - FrontEnd
