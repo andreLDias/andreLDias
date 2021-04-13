@@ -10,7 +10,9 @@
   - Javascript
     - Node
     - ReactJS
-
+- 💻 I'm really into:
+  - Ruby
+  - Javascript
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
