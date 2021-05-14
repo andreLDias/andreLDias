@@ -12,6 +12,7 @@ I want to leave a legacy and be immortal.
 * WebApps
 * Game development
 * Bots (chatbots included!)
+* Alexa skills
 
 ## :office: TechStack:
 
@@ -36,6 +37,7 @@ I want to leave a legacy and be immortal.
 
 ## :wrench: Tooling:
 <p align="center"> 
+  <a href="https://alexa.amazon.com.br/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Amazon_Alexa_blue_logo.svg/1024px-Amazon_Alexa_blue_logo.svg.png" alt="alexa" width="50" height="50"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="nodejs" width="50" height="50"/> </a> 
   <a href="https://www.office.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg/1200px-Microsoft_Office_logo_%282013%E2%80%932019%29.svg.png" alt="office" width="50" height="50"/> </a> 
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> 
