@@ -55,16 +55,6 @@ I want to leave a legacy and be immortal.
   * ReactJs
   * Jest
 
-## :computer: I'm really into:
-* StarWars
-* Movies
-* Music
-* Games
-* Tv Shows
-* Animes and Manga
-* Comic books
-* Books
-
 ## :link: Connect with me!
 <p align="center">
   <a href="https://www.linkedin.com/in/andreldcustodio/" target="_blank">
