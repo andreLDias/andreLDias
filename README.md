@@ -43,6 +43,7 @@ I want to leave a legacy and be immortal.
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> 
   <a href="https://insomnia.rest/" target="_blank"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="50" height="50"/> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> 
+  <a href="https://apple.com/" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/apple-mac-logo.png" alt="slack" width="50" height="50"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
   <a href="https://www.jetbrains.com/datagrip/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/1024px-DataGrip.svg.png" alt="datagrip" width="50" height="50"/> </a>
