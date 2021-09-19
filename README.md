@@ -55,6 +55,7 @@ I want to leave a legacy and be immortal.
   * NodeJs
   * ReactJs
   * Jest
+* Elixir
 
 ## :link: Connect with me!
 <p align="center">
