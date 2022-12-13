@@ -54,6 +54,7 @@ I want to leave a legacy and be immortal.
 * Javascript
   * NodeJs
   * ReactJs
+  * React Native
   * Jest
 * Elixir
 
