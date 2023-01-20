@@ -6,7 +6,6 @@
 ## :wave: Who am I?
 My name is André Dias but everyone knows me as Deco. I'm a brazilian fullStack web developer, interested in learning new technology, languages and tools.  
 As a developer, my goal is to keep things simple. The machine will always understand my code so my goal is to make people understand it as well (even non tech people!).  
-I want to leave a legacy and be immortal.
 
 ## :eyes: Interests
 * WebApps
