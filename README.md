@@ -4,7 +4,7 @@
 </p>
 
 ## :wave: Who am I?
-My name is André Dias but everyone knows me as Deco. I'm a brazilian fullStack web developer, interested in learning new technology, languages and tools.  
+My name is André Dias but everyone knows me as Deco. I'm a brazilian frontend web developer, interested in learning new technology, languages and tools.  
 As a developer, my goal is to keep things simple. The machine will always understand my code so my goal is to make people understand it as well (even non tech people!).  
 
 ## :eyes: Interests
@@ -49,13 +49,12 @@ As a developer, my goal is to keep things simple. The machine will always unders
   <a href="https://slack.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack" width="50" height="50"/> </a>
 </p>
 
-## :seedling: I'm currently learning/improving skills:
+## :seedling: I'm currently working with:
 * Javascript
   * NodeJs
   * ReactJs
   * React Native
   * Jest
-* Elixir
 
 ## :link: Connect with me!
 <p align="center">
