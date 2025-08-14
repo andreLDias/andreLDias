@@ -24,14 +24,12 @@ As a developer, my goal is to keep things simple. The machine will always unders
 </p>
  
 <p align="center"> 
- <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>  
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>  
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a> 
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="50" height="50"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/1024px-Antu_mongodb.svg.png" alt="mongodb" width="50" height="50"/> </a>
   <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/> </a> 
-  <a href="https://dashboard.heroku.com/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/873/873120.png" alt="heroku" width="50" height="50"/> </a>
-   <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" alt="ruby" width="50" height="50"/> </a> 
-   <a href="https://rubyonrails.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ruby_on_Rails_logo.svg/1200px-Ruby_on_Rails_logo.svg.png" alt="rails" width="50" height="50"/> </a> 
+  <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" alt="ruby" width="50" height="50"/> </a> 
 </p>
 
 ## :wrench: Tooling:
@@ -40,8 +38,10 @@ As a developer, my goal is to keep things simple. The machine will always unders
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="nodejs" width="50" height="50"/> </a> 
   <a href="https://www.office.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg/1200px-Microsoft_Office_logo_%282013%E2%80%932019%29.svg.png" alt="office" width="50" height="50"/> </a> 
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> 
-  <a href="https://insomnia.rest/" target="_blank"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="50" height="50"/> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> 
+</p>
+
+<p align="center"> 
   <a href="https://apple.com/" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/apple-mac-logo.png" alt="slack" width="50" height="50"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
@@ -50,11 +50,17 @@ As a developer, my goal is to keep things simple. The machine will always unders
 </p>
 
 ## :seedling: I'm currently working with:
-* Javascript
+* Frontend
+  * TypeScript
   * NodeJs
-  * ReactJs
-  * React Native
-  * Jest
+  * ReactJs / React Native / Vite
+  * Jest / Vitest
+  * Styled components / Tailwind
+  * Playwright / Cypress
+ 
+* Backend
+  * NodeJs
+  * Elixir
 
 ## :link: Connect with me!
 <p align="center">
